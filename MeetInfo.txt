@@ -1,15 +1,13 @@
 {
-"link": "https://meet.google.com/psb-jkwb-tji?authuser=1",
-"mute": True,
-"camOff": True,
-"tries": 5,
-"delay": 1,
-"repeat": True,
-"hour": 15,
-"min": 34,
-"x": 0.66,
-"y": 0.545
+"link": "Add Link Here",  #put link here
+"mute": True, #closes mic
+"camOff": True, #closes cam
+"tries": 5, #number of tries, in case the google meets wasnt open the first time
+"delay": 1, #delay in minutes per try
+"repeat": True, #Toggles routine join everyday
+"hour": 15, #time in hours
+"min": 30,  #time in minutes
+"x": 0.66,  #preset, adjust for mouse
+"y": 0.545  #preset, adjust for mouse
 }
 
-#functions: https://meet.google.com/psb-jkwb-tji?authuser=1
-#law: https://meet.google.com/owh-snbe-rri?authuser=1
