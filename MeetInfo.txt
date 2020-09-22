@@ -1,0 +1,15 @@
+{
+"link": "https://meet.google.com/psb-jkwb-tji?authuser=1",
+"mute": True,
+"camOff": True,
+"tries": 5,
+"delay": 1,
+"repeat": True,
+"hour": 15,
+"min": 34,
+"x": 0.66,
+"y": 0.545
+}
+
+#functions: https://meet.google.com/psb-jkwb-tji?authuser=1
+#law: https://meet.google.com/owh-snbe-rri?authuser=1
