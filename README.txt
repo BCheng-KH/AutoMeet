@@ -2,7 +2,8 @@ Download the exe version of AutoMeet at this link: https://www.dropbox.com/s/yk4
 To use AutoMeet, download and put both AutoMeet.exe and MeetInfo.txt in the same file, then edit the parimeters in MeetInfo.txt to join google meet links at a given time.
 Finally, run AutoMeet.exe and leave it running until the specified time.
 
-Note: rather than using a google meets link send by someone else, please first click on the link, then copy the url to ensure the right user is loged into the google meet.
-eg: your link should look like this: "https://meet.google.com/pzb-jhwn-tyi?authuser=0", not this: "https://meet.google.com/lookup/gng5c3bath?authuser=0&hs=179"
+Note: please use the google meets like shared you you via google classroom.
+eg: your link should look like this: "https://meet.google.com/lookup/e3miahk63v?authuser=1&hs=179", not this: "https://meet.google.com/lookup/e3miahk63v"
+this is to ensure you are logged in as the correct user and you are not using the expirable link.
 
 To adjust the location of the mouse click, simply edit the "x" and "y" parimeters in MeetInfo.txt
