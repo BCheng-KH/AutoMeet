@@ -1,4 +1,4 @@
-Download the exe version of AutoMeet at this link: https://www.dropbox.com/s/yk4rn0rhfov5xl6/AutoMeet.exe?dl=0
+Download the exe version of AutoMeet at this link: https://www.dropbox.com/s/jj90m7cn4voigfs/AutoMeet.exe?dl=0
 To use AutoMeet, download and put both AutoMeet.exe and MeetInfo.txt in the same file, then edit the parimeters in MeetInfo.txt to join google meet links at a given time.
 Finally, run AutoMeet.exe and leave it running until the specified time.
 
