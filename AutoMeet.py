@@ -1,4 +1,4 @@
-import time, webbrowser
+import time, os
 import pyautogui as pag
 
 f = open("MeetInfo.txt", "r")
@@ -14,10 +14,14 @@ before = False
 
 
 def conMeet(info):
+    pag.hotkey('ctrl', 'win', 'd')
+    time.sleep(2)
     for i in range(info["tries"]):
         if i != 0:
             time.sleep(info["delay"]*60)
-        webbrowser.open(info["link"])
+        
+        
+        os.system("start chrome "+info["link"])
         time.sleep(10)
         if info["mute"]:
             pag.hotkey('ctrl', 'd')
